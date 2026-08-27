@@ -1,0 +1,31 @@
+{
+  "project": "Last Pixel",
+  "day": 90,
+  "generatedAt": "2026-08-27T13:55:03.360Z",
+  "activeCount": 6,
+  "activeRoot": "0x673791c1d8c6fe50521c05a1bf259728b5d77340b38172a24b03ab73e4bff077",
+  "refundRoot": "0x1f50bf3d4b094f0bfe987fd671e814fe7aba532566af1f2eedb1863a37dc0801",
+  "leafFormat": "keccak256(bytes.concat(keccak256(abi.encode(...))))",
+  "participants": [
+    {
+      "walletHash": "0x3ed540bc7246097138165852dada19afec4edc16ee2b00c19c6bef27c26bb17a",
+      "pixels": 3,
+      "refundUsdc": "3"
+    },
+    {
+      "walletHash": "0x0e85b64739983669105cf03e2f67971a377b9b85857f88c557bccf4d4c2ac95a",
+      "pixels": 1,
+      "refundUsdc": "1"
+    },
+    {
+      "walletHash": "0x15d28389c2c4225ca139524ca738e28edcd1b318e0f239d450578f89fd2b9077",
+      "pixels": 1,
+      "refundUsdc": "1"
+    },
+    {
+      "walletHash": "0x87c9caa02abb3c9971e9f28f97a3f27bc260471d15803460f7e7533eeb4bd513",
+      "pixels": 1,
+      "refundUsdc": "1"
+    }
+  ]
+}
